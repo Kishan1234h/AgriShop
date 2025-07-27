@@ -10,7 +10,7 @@
 
 ## Authors
 
-- [@Avinash jena](https://github.com/AvinashJ74)
+- [@Kishan Kumar](https://github.com/kishan1234h)
 
 
 ## Tech Stack
